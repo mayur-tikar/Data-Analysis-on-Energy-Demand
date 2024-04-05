@@ -26,4 +26,4 @@ Working with Excel worksheets to present data analysis that will help to efficie
 
 -  [Energy Demand Data Worksheet](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Data%20Worksheet.png)
 -  [Top and Bottom 20 Data](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Top%20and%20Bottom%2020%20data.png)
--  ![Demand Over Time](Analysis-Screenshots/Demand%Over%Time.png)
+-  ![Demand Over Time](Analysis-Screenshots/Demand-Over-Time.png)
