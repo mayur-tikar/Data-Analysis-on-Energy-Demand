@@ -4,7 +4,7 @@ Working with Excel worksheets to present data analysis that will help to efficie
 - Processed and structured raw data to improve understanding.
 - For initial analysis, only the top and bottom 20 rows were extracted.
 - The data's minimum, maximum, and average demand were summarized.
-- I made a line chart to analyze the energy demand over time.
+- Line chart to analyze the energy demand over time.
 - The impact of everyday weather on energy demand has been discovered.
 - Extracted and evaluated if school days, holidays, and work days have an influence on energy usage.
 - Data on energy demand for each year was analyzed in order to compare and draw conclusions.
