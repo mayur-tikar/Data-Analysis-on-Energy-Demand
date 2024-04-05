@@ -21,3 +21,9 @@ Working with Excel worksheets to present data analysis that will help to efficie
 
 ### Tikar_Mayur_2_slidedeck_012024.pptx
 -  Regarding data analysis, consider the data lifecycle.
+
+### Images of the Analysis
+
+-  [Energy Demand Data Worksheet](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Data%20Worksheet.png)
+-  [Top and Bottom 20 Data](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Top%20and%20Bottom%2020%20data.png)
+-  [Demand Over Time](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Demand%20Over%20Time.png)
