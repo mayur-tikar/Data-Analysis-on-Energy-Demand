@@ -24,10 +24,17 @@ Working with Excel worksheets to present data analysis that will help to efficie
 
 ### Images of the Analysis
 
--  ![Energy Demand Data Worksheet](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Data%20Worksheet.png)
--  ![Top and Bottom 20 Data](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Top%20and%20Bottom%2020%20data.png)
--  ![Demand Over Time](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Demand%20Over%20Time.png)
--  ![Effect of Weather](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Effect%20of%20Weather.png)
--  ![Effect of Temperature and holidays](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Effect%20of%20Temperature%20and%20Holidays.png)
--  ![Year on Year Energy Demand](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Year%20on%20Year%20Energy%20Demand.png)
--  ![Demand by Day of Week](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Demand%20by%20Day%20of%20Week.png)
+-  #### Energy Demand Data Worksheet
+  ![Energy Demand Data Worksheet](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Data%20Worksheet.png)
+-  #### Top and Bottom 20 Energy Demand Data
+  ![Top and Bottom 20 Data](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Top%20and%20Bottom%2020%20data.png)
+-  #### Energy Demand Over Time
+  ![Demand Over Time](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Demand%20Over%20Time.png)
+-  #### Effect of Weather on Energy Demand
+  ![Effect of Weather](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Effect%20of%20Weather.png)
+-  #### Effect of Temperature and Holidays on Energy Demand
+  ![Effect of Temperature and holidays](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Effect%20of%20Temperature%20and%20Holidays.png)
+-  #### Year-on-Year Energy Demand
+  ![Year on Year Energy Demand](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Year%20on%20Year%20Energy%20Demand.png)
+-  #### Energy Demand by Day Of Week
+  ![Demand by Day of Week](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand/blob/main/Analysis%20Screenshots/Demand%20by%20Day%20of%20Week.png)
